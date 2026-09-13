@@ -116,17 +116,26 @@
         <mxCell id="vFa1o-agwL2cUFBvVqZW-73" value="结果输出" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry y="930" width="124" height="48" as="geometry" />
         </mxCell>
+        <mxCell id="vFa1o-agwL2cUFBvVqZW-124" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vFa1o-agwL2cUFBvVqZW-74" target="vFa1o-agwL2cUFBvVqZW-75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="vFa1o-agwL2cUFBvVqZW-74" value="径向剖面" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="170" y="930" width="124" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="vFa1o-agwL2cUFBvVqZW-125" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vFa1o-agwL2cUFBvVqZW-75" target="vFa1o-agwL2cUFBvVqZW-76">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vFa1o-agwL2cUFBvVqZW-75" value="时间曲线" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="351" y="930" width="124" height="48" as="geometry" />
         </mxCell>
+        <mxCell id="vFa1o-agwL2cUFBvVqZW-126" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vFa1o-agwL2cUFBvVqZW-76" target="vFa1o-agwL2cUFBvVqZW-77">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="vFa1o-agwL2cUFBvVqZW-76" value="临界干燥时长" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="608" y="930" width="156" height="48" as="geometry" />
+          <mxGeometry x="518" y="930" width="156" height="48" as="geometry" />
         </mxCell>
         <mxCell id="vFa1o-agwL2cUFBvVqZW-77" value="npz数组与日志" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="880" y="930" width="165" height="48" as="geometry" />
+          <mxGeometry x="720" y="930" width="165" height="48" as="geometry" />
         </mxCell>
         <mxCell id="vFa1o-agwL2cUFBvVqZW-78" value="注：连续事件根仅作定位依据，最终结果必须满足整数秒全域达标" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-20" y="830" width="252" height="84" as="geometry" />
