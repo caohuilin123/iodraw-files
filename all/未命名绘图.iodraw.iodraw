@@ -20,7 +20,7 @@
           <mxGeometry x="35.695512820512825" y="46" width="254.01923076923077" height="350" as="geometry" />
         </mxCell>
         <mxCell id="vFa1o-agwL2cUFBvVqZW-54" value="$F(t)=\max C-0.15$" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="vFa1o-agwL2cUFBvVqZW-53">
-          <mxGeometry x="51.46794871794872" y="43" width="164.3653846153846" height="48" as="geometry" />
+          <mxGeometry x="51.47" y="43" width="178.53" height="48" as="geometry" />
         </mxCell>
         <mxCell id="vFa1o-agwL2cUFBvVqZW-55" value="$t_{pre}=⟨t^*⟩,\;t_{post}=t_{pre}+1$" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="vFa1o-agwL2cUFBvVqZW-53">
           <mxGeometry x="50.63782051282051" y="141" width="166.85576923076923" height="66" as="geometry" />
