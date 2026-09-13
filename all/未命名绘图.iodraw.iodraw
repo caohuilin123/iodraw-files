@@ -80,16 +80,16 @@
           <mxGeometry x="143" y="1203" width="124" height="48" as="geometry" />
         </mxCell>
         <mxCell id="vFa1o-agwL2cUFBvVqZW-74" value="径向剖面" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="400" y="1240" width="124" height="48" as="geometry" />
+          <mxGeometry x="390" y="1192" width="124" height="48" as="geometry" />
         </mxCell>
         <mxCell id="vFa1o-agwL2cUFBvVqZW-75" value="时间曲线" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="670" y="1240" width="124" height="48" as="geometry" />
+          <mxGeometry x="703" y="1169" width="124" height="48" as="geometry" />
         </mxCell>
         <mxCell id="vFa1o-agwL2cUFBvVqZW-76" value="临界干燥时长" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1027" y="1240" width="156" height="48" as="geometry" />
+          <mxGeometry x="1020" y="1169" width="156" height="48" as="geometry" />
         </mxCell>
         <mxCell id="vFa1o-agwL2cUFBvVqZW-77" value="npz数组与日志" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1302" y="1250" width="165" height="48" as="geometry" />
+          <mxGeometry x="1330" y="1160" width="165" height="48" as="geometry" />
         </mxCell>
         <mxCell id="vFa1o-agwL2cUFBvVqZW-78" value="注：连续事件根仅作定位依据，最终结果必须满足整数秒全域达标" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="70" y="1100" width="252" height="84" as="geometry" />
@@ -109,7 +109,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vFa1o-agwL2cUFBvVqZW-90" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vFa1o-agwL2cUFBvVqZW-76" target="vFa1o-agwL2cUFBvVqZW-77">
+        <mxCell id="vFa1o-agwL2cUFBvVqZW-90" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0;entryX=0.5;entryY=0.01;rounded=0;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vFa1o-agwL2cUFBvVqZW-76" target="vFa1o-agwL2cUFBvVqZW-77">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
