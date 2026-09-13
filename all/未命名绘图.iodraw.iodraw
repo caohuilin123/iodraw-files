@@ -26,7 +26,7 @@
           <mxGeometry x="50.64" y="141" width="199.36" height="66" as="geometry" />
         </mxCell>
         <mxCell id="vFa1o-agwL2cUFBvVqZW-56" value="核验 $\max C(t_{post})&amp;lt;0.15$" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="vFa1o-agwL2cUFBvVqZW-53">
-          <mxGeometry x="48.1474358974359" y="257" width="171.00641025641025" height="66" as="geometry" />
+          <mxGeometry x="48.15" y="257" width="191.85" height="66" as="geometry" />
         </mxCell>
         <mxCell id="vFa1o-agwL2cUFBvVqZW-57" value="捕捉过零点&#xa;稠密输出定位 $t^*$" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="vFa1o-agwL2cUFBvVqZW-52">
           <mxGeometry x="331.2211538461538" y="188" width="164.3653846153846" height="66" as="geometry" />
@@ -41,7 +41,7 @@
           <mxGeometry x="348" y="54" width="168" height="66" as="geometry" />
         </mxCell>
         <mxCell id="vFa1o-agwL2cUFBvVqZW-61" value="前置假设：一维径向、干物质守恒、等效固相传质边界" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="489" y="1033" width="252" height="66" as="geometry" />
+          <mxGeometry x="489" y="1033" width="301" height="66" as="geometry" />
         </mxCell>
         <mxCell id="vFa1o-agwL2cUFBvVqZW-62" value="构建控制方程" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="761" y="1195" width="156" height="48" as="geometry" />
