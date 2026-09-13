@@ -17,7 +17,7 @@
           <mxGeometry x="22.461399999999998" y="29.328785046728974" width="189.4386" height="223.17398753894082" as="geometry" />
         </mxCell>
         <mxCell id="vFa1o-agwL2cUFBvVqZW-54" value="F(t)=max C-0.15$" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="vFa1o-agwL2cUFBvVqZW-53">
-          <mxGeometry x="20.381164087667504" y="27.418518469069877" width="133.1413891601181" height="30.606718291054744" as="geometry" />
+          <mxGeometry x="20.381164087667504" y="41.66851846906988" width="133.1413891601181" height="30.606718291054744" as="geometry" />
         </mxCell>
         <mxCell id="vFa1o-agwL2cUFBvVqZW-55" value="$t_{pre}=⟨t^*⟩,\;t_{post}=t_{pre}+1$" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="vFa1o-agwL2cUFBvVqZW-53">
           <mxGeometry x="20.38157930638201" y="89.9072349799733" width="148.67566987599366" height="42.08423765020027" as="geometry" />
