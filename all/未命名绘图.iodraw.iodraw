@@ -11,7 +11,7 @@
           <mxGeometry x="77" y="961" width="377" height="673" as="geometry" />
         </mxCell>
         <mxCell id="vFa1o-agwL2cUFBvVqZW-51" value="数值可靠性总检验" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="670" y="535" width="644.5" height="379" as="geometry" />
+          <mxGeometry x="1136" y="1000" width="644.5" height="379" as="geometry" />
         </mxCell>
         <mxCell id="vFa1o-agwL2cUFBvVqZW-52" value="重构Jacobian与修正迭代" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1362" y="520" width="518" height="425" as="geometry" />
@@ -65,7 +65,7 @@
           <mxGeometry x="1574" y="1706" width="124" height="48" as="geometry" />
         </mxCell>
         <mxCell id="vFa1o-agwL2cUFBvVqZW-69" value="网格收敛" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="687" y="798" width="124" height="48" as="geometry" />
+          <mxGeometry x="1230" y="1217" width="124" height="48" as="geometry" />
         </mxCell>
         <mxCell id="vFa1o-agwL2cUFBvVqZW-70" value="多求解器对照" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="930" y="798" width="156" height="48" as="geometry" />
@@ -74,7 +74,7 @@
           <mxGeometry x="1136" y="798" width="156" height="48" as="geometry" />
         </mxCell>
         <mxCell id="vFa1o-agwL2cUFBvVqZW-72" value="临界时刻复现" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="944.25" y="570" width="156" height="48" as="geometry" />
+          <mxGeometry x="1380" y="1060" width="156" height="48" as="geometry" />
         </mxCell>
         <mxCell id="vFa1o-agwL2cUFBvVqZW-73" value="结果输出" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="195" y="1099" width="124" height="48" as="geometry" />
