@@ -203,7 +203,7 @@
         </mxCell>
         <mxCell id="vFa1o-agwL2cUFBvVqZW-140" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="vFa1o-agwL2cUFBvVqZW-135">
           <mxGeometry x="0.6543" y="7" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-5" y="-3" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="vFa1o-agwL2cUFBvVqZW-142" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
