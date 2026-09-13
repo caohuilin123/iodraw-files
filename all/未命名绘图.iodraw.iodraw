@@ -94,13 +94,6 @@
         <mxCell id="vFa1o-agwL2cUFBvVqZW-78" value="注：连续事件根仅作定位依据，最终结果必须满足整数秒全域达标" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="100" y="830" width="252" height="84" as="geometry" />
         </mxCell>
-        <mxCell id="vFa1o-agwL2cUFBvVqZW-84" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.02;entryX=0;entryY=0.36;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vFa1o-agwL2cUFBvVqZW-66" target="vFa1o-agwL2cUFBvVqZW-67">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="545" y="1780" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="vFa1o-agwL2cUFBvVqZW-87" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.02;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vFa1o-agwL2cUFBvVqZW-73" target="vFa1o-agwL2cUFBvVqZW-74">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
@@ -130,24 +123,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="vFa1o-agwL2cUFBvVqZW-93" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.62;exitY=0.01;entryX=0.5;entryY=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vFa1o-agwL2cUFBvVqZW-68" target="vFa1o-agwL2cUFBvVqZW-52">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1674" y="1670" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="vFa1o-agwL2cUFBvVqZW-94" value="" style="curved=1;startArrow=none;endArrow=block;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vFa1o-agwL2cUFBvVqZW-52" target="vFa1o-agwL2cUFBvVqZW-51">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="vFa1o-agwL2cUFBvVqZW-95" value="检验不通过" style="curved=1;startArrow=none;endArrow=block;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vFa1o-agwL2cUFBvVqZW-51" target="vFa1o-agwL2cUFBvVqZW-58">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="vFa1o-agwL2cUFBvVqZW-96" value="检验通过" style="curved=1;startArrow=none;endArrow=block;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vFa1o-agwL2cUFBvVqZW-51" target="vFa1o-agwL2cUFBvVqZW-73">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
