@@ -63,7 +63,7 @@
           <mxGeometry width="150" height="26.08695652173913" as="geometry" />
         </mxCell>
         <mxCell id="vFa1o-agwL2cUFBvVqZW-60" value="网络与BDF参数" style="whiteSpace=wrap;strokeWidth=2;spacingTop=1;spacing=25;" vertex="1" parent="vFa1o-agwL2cUFBvVqZW-58">
-          <mxGeometry x="10" y="132" width="130" height="26.09" as="geometry" />
+          <mxGeometry x="10" y="140" width="130" height="18.09" as="geometry" />
         </mxCell>
         <mxCell id="vFa1o-agwL2cUFBvVqZW-144" value="R(t)仅问题四" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="vFa1o-agwL2cUFBvVqZW-58">
           <mxGeometry x="11.88" y="158.0904347826087" width="128.12" height="26.08695652173913" as="geometry" />
