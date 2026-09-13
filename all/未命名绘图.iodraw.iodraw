@@ -39,7 +39,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="vFa1o-agwL2cUFBvVqZW-132" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vFa1o-agwL2cUFBvVqZW-58" target="vFa1o-agwL2cUFBvVqZW-70">
+        <mxCell id="vFa1o-agwL2cUFBvVqZW-132" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vFa1o-agwL2cUFBvVqZW-78" target="vFa1o-agwL2cUFBvVqZW-70">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="155" y="650" />
@@ -174,9 +174,6 @@
         <mxCell id="vFa1o-agwL2cUFBvVqZW-77" value="npz数组与日志" style="whiteSpace=wrap;strokeWidth=2;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="797.5" y="670" width="165" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="vFa1o-agwL2cUFBvVqZW-78" value="注：连续事件根仅作定位依据，最终结果必须满足整数秒全域达标" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="56" y="640" width="198" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="vFa1o-agwL2cUFBvVqZW-99" value="收敛判断" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0;strokeWidth=2;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="827" y="320" width="170" height="40" as="geometry" />
         </mxCell>
@@ -195,6 +192,16 @@
               <mxPoint x="570" y="430" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="vFa1o-agwL2cUFBvVqZW-139" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vFa1o-agwL2cUFBvVqZW-58" target="vFa1o-agwL2cUFBvVqZW-78">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="155" y="610" as="sourcePoint" />
+            <mxPoint x="912" y="599" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vFa1o-agwL2cUFBvVqZW-78" value="注：连续事件根仅作定位依据，最终结果必须满足整数秒全域达标" style="whiteSpace=wrap;strokeWidth=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="52.29" y="640" width="198" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
