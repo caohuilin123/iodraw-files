@@ -29,7 +29,7 @@
           <mxGeometry x="50" y="10" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="vFa1o-agwL2cUFBvVqZW-55" value="tpost=tpre+1" style="whiteSpace=wrap;strokeWidth=1;strokeColor=#e68d0e;" vertex="1" parent="vFa1o-agwL2cUFBvVqZW-53">
-          <mxGeometry x="43.74" y="40" width="126.26" height="30" as="geometry" />
+          <mxGeometry x="43.74" y="40" width="126.26" height="20" as="geometry" />
         </mxCell>
         <mxCell id="vFa1o-agwL2cUFBvVqZW-56" value="核验 maxC(tpost)&lt;0.15" style="whiteSpace=wrap;strokeWidth=1;strokeColor=#e68d0e;fontColor=#994C00;" vertex="1" parent="vFa1o-agwL2cUFBvVqZW-53">
           <mxGeometry x="10" y="73.27" width="160" height="19.98" as="geometry" />
