@@ -8,7 +8,7 @@
           <mxGeometry x="30" y="170" width="890" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vFa1o-agwL2cUFBvVqZW-50" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="63.5" y="1100" width="1503" height="254" as="geometry" />
+          <mxGeometry x="63.5" y="1100" width="1016.5" height="254" as="geometry" />
         </mxCell>
         <mxCell id="vFa1o-agwL2cUFBvVqZW-51" value="数值可靠性总检验" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="820" y="400" width="248" height="70" as="geometry" />
@@ -65,10 +65,10 @@
           <mxGeometry x="640" y="572" width="124" height="48" as="geometry" />
         </mxCell>
         <mxCell id="vFa1o-agwL2cUFBvVqZW-69" value="网格收敛" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1302" y="800" width="124" height="48" as="geometry" />
+          <mxGeometry x="896" y="670" width="124" height="48" as="geometry" />
         </mxCell>
         <mxCell id="vFa1o-agwL2cUFBvVqZW-70" value="多求解器对照" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1270" y="890" width="156" height="48" as="geometry" />
+          <mxGeometry x="880" y="770" width="156" height="48" as="geometry" />
         </mxCell>
         <mxCell id="vFa1o-agwL2cUFBvVqZW-71" value="质量热量收支" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="880" y="585" width="156" height="48" as="geometry" />
@@ -83,7 +83,7 @@
           <mxGeometry x="390" y="1192" width="124" height="48" as="geometry" />
         </mxCell>
         <mxCell id="vFa1o-agwL2cUFBvVqZW-75" value="时间曲线" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="703" y="1169" width="124" height="48" as="geometry" />
+          <mxGeometry x="560" y="1192" width="124" height="48" as="geometry" />
         </mxCell>
         <mxCell id="vFa1o-agwL2cUFBvVqZW-76" value="临界干燥时长" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1020" y="1169" width="156" height="48" as="geometry" />
