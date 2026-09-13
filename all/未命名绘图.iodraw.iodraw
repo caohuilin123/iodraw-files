@@ -47,7 +47,7 @@
           <mxGeometry x="160" y="400" width="156" height="48" as="geometry" />
         </mxCell>
         <mxCell id="vFa1o-agwL2cUFBvVqZW-63" value="有限体积空间离散" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="620" y="961" width="188" height="48" as="geometry" />
+          <mxGeometry x="414" y="400" width="188" height="48" as="geometry" />
         </mxCell>
         <mxCell id="vFa1o-agwL2cUFBvVqZW-64" value="BDF隐式时间积分" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="747" y="1392" width="183" height="48" as="geometry" />
@@ -94,11 +94,6 @@
         <mxCell id="vFa1o-agwL2cUFBvVqZW-78" value="注：连续事件根仅作定位依据，最终结果必须满足整数秒全域达标" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="100" y="830" width="252" height="84" as="geometry" />
         </mxCell>
-        <mxCell id="vFa1o-agwL2cUFBvVqZW-81" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.02;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vFa1o-agwL2cUFBvVqZW-63" target="vFa1o-agwL2cUFBvVqZW-64">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="vFa1o-agwL2cUFBvVqZW-82" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vFa1o-agwL2cUFBvVqZW-64" target="vFa1o-agwL2cUFBvVqZW-65">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
@@ -115,15 +110,6 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="545" y="1780" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="vFa1o-agwL2cUFBvVqZW-85" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.25;entryX=1;entryY=0.61;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vFa1o-agwL2cUFBvVqZW-67" target="vFa1o-agwL2cUFBvVqZW-64">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1330" y="1720" />
-              <mxPoint x="1270" y="1600" />
-              <mxPoint x="1120" y="1480" />
             </Array>
           </mxGeometry>
         </mxCell>
