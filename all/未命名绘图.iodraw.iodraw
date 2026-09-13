@@ -56,7 +56,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="vFa1o-agwL2cUFBvVqZW-1" value="&lt;h1 style=&quot;line-height: 60%;&quot;&gt;圆柱多孔物料热风干燥数值求解流程&lt;/h1&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="420" y="170" width="860" height="40" as="geometry" />
+          <mxGeometry x="420" y="170" width="1180" height="90" as="geometry" />
         </mxCell>
         <mxCell id="vFa1o-agwL2cUFBvVqZW-2" value="结果输出链路" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="40" y="686" width="243" height="539" as="geometry" />
@@ -101,7 +101,7 @@
           <mxGeometry x="348" y="54" width="168" height="66" as="geometry" />
         </mxCell>
         <mxCell id="vFa1o-agwL2cUFBvVqZW-16" value="前置假设：一维径向、干物质守恒、等效固相传质边界" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="453" y="757" width="252" height="66" as="geometry" />
+          <mxGeometry x="350" y="424" width="252" height="66" as="geometry" />
         </mxCell>
         <mxCell id="vFa1o-agwL2cUFBvVqZW-17" value="构建控制方程" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="725" y="919" width="156" height="48" as="geometry" />
