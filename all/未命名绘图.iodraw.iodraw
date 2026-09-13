@@ -56,7 +56,7 @@
           <mxGeometry x="780" y="1490" width="119" height="119" as="geometry" />
         </mxCell>
         <mxCell id="vFa1o-agwL2cUFBvVqZW-66" value="逐节点更新物性" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="459" y="1706" width="172" height="48" as="geometry" />
+          <mxGeometry x="650" y="1169" width="172" height="48" as="geometry" />
         </mxCell>
         <mxCell id="vFa1o-agwL2cUFBvVqZW-67" value="计算能量与水分通量" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1214" y="1805" width="204" height="48" as="geometry" />
@@ -121,16 +121,6 @@
               <mxPoint x="257" y="990" />
               <mxPoint x="257" y="1030" />
             </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="vFa1o-agwL2cUFBvVqZW-94" value="" style="curved=1;startArrow=none;endArrow=block;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vFa1o-agwL2cUFBvVqZW-52" target="vFa1o-agwL2cUFBvVqZW-51">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="vFa1o-agwL2cUFBvVqZW-95" value="检验不通过" style="curved=1;startArrow=none;endArrow=block;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vFa1o-agwL2cUFBvVqZW-51" target="vFa1o-agwL2cUFBvVqZW-58">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="vFa1o-agwL2cUFBvVqZW-97" value="" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vFa1o-agwL2cUFBvVqZW-72" target="vFa1o-agwL2cUFBvVqZW-51">
