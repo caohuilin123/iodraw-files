@@ -50,7 +50,7 @@
           <mxGeometry x="348" y="54" width="168" height="66" as="geometry" />
         </mxCell>
         <mxCell id="vFa1o-agwL2cUFBvVqZW-16" value="前置假设：一维径向、干物质守恒、等效固相传质边界" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="350" y="424" width="252" height="66" as="geometry" />
+          <mxGeometry x="196" y="350" width="372" height="66" as="geometry" />
         </mxCell>
         <mxCell id="vFa1o-agwL2cUFBvVqZW-17" value="构建控制方程" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="725" y="919" width="156" height="48" as="geometry" />
