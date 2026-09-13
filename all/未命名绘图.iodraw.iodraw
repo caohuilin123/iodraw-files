@@ -108,7 +108,7 @@
           <mxGeometry x="833.25" y="521" width="156.75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vFa1o-agwL2cUFBvVqZW-70" value="多求解器对照" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="827" y="600" width="156" height="30" as="geometry" />
+          <mxGeometry x="834" y="569" width="156" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vFa1o-agwL2cUFBvVqZW-71" value="质量热量收支" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="833.25" y="470" width="156" height="29" as="geometry" />
@@ -148,9 +148,6 @@
         </mxCell>
         <mxCell id="vFa1o-agwL2cUFBvVqZW-99" value="收敛判断" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="827" y="320" width="170" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="vFa1o-agwL2cUFBvVqZW-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vFa1o-agwL2cUFBvVqZW-72" target="vFa1o-agwL2cUFBvVqZW-72">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vFa1o-agwL2cUFBvVqZW-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vFa1o-agwL2cUFBvVqZW-71" target="vFa1o-agwL2cUFBvVqZW-71">
           <mxGeometry relative="1" as="geometry" />
