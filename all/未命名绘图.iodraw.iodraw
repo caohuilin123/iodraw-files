@@ -92,7 +92,7 @@
           <mxGeometry x="174" y="1525" width="165" height="48" as="geometry" />
         </mxCell>
         <mxCell id="vFa1o-agwL2cUFBvVqZW-78" value="注：连续事件根仅作定位依据，最终结果必须满足整数秒全域达标" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="130.5" y="870" width="252" height="84" as="geometry" />
+          <mxGeometry x="100" y="830" width="252" height="84" as="geometry" />
         </mxCell>
         <mxCell id="vFa1o-agwL2cUFBvVqZW-79" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0;entryY=0.15;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vFa1o-agwL2cUFBvVqZW-61" target="vFa1o-agwL2cUFBvVqZW-62">
           <mxGeometry relative="1" as="geometry">
@@ -170,6 +170,8 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="156" y="961" />
+              <mxPoint x="257" y="990" />
+              <mxPoint x="257" y="1030" />
             </Array>
           </mxGeometry>
         </mxCell>
