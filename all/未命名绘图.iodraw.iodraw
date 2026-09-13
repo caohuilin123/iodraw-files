@@ -46,11 +46,14 @@
         <mxCell id="vFa1o-agwL2cUFBvVqZW-62" value="构建控制方程" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="118" y="320" width="156" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="vFa1o-agwL2cUFBvVqZW-106" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vFa1o-agwL2cUFBvVqZW-63" target="vFa1o-agwL2cUFBvVqZW-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="vFa1o-agwL2cUFBvVqZW-63" value="有限体积空间离散" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="330" y="320" width="188" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vFa1o-agwL2cUFBvVqZW-64" value="BDF隐式时间积分" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="590" y="322" width="183" height="38" as="geometry" />
+          <mxGeometry x="581" y="322" width="183" height="38" as="geometry" />
         </mxCell>
         <mxCell id="vFa1o-agwL2cUFBvVqZW-65" value="满足容差?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="622" y="400" width="119" height="119" as="geometry" />
