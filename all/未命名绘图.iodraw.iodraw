@@ -63,7 +63,7 @@
           <mxGeometry width="150" height="26.08695652173913" as="geometry" />
         </mxCell>
         <mxCell id="vFa1o-agwL2cUFBvVqZW-60" value="网络与BDF参数" style="whiteSpace=wrap;strokeWidth=2;spacingTop=1;spacing=25;" vertex="1" parent="vFa1o-agwL2cUFBvVqZW-58">
-          <mxGeometry x="12.86" y="132" width="127.14" height="26.09" as="geometry" />
+          <mxGeometry x="10" y="132" width="130" height="26.09" as="geometry" />
         </mxCell>
         <mxCell id="vFa1o-agwL2cUFBvVqZW-144" value="R(t)仅问题四" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="vFa1o-agwL2cUFBvVqZW-58">
           <mxGeometry x="11.88" y="158.0904347826087" width="128.12" height="26.08695652173913" as="geometry" />
@@ -225,9 +225,6 @@
         </mxCell>
         <mxCell id="vFa1o-agwL2cUFBvVqZW-152" value="&lt;span style=&quot;color: rgb(153, 76, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;捕捉过零点&lt;/span&gt;&lt;br style=&quot;forced-color-adjust: none; padding: 0px; margin: 0px; color: rgb(153, 76, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;span style=&quot;color: rgb(153, 76, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;稠密输出定位 t*&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="490" y="580" width="120" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="vFa1o-agwL2cUFBvVqZW-155" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="135" y="538" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
