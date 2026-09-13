@@ -37,7 +37,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="vFa1o-agwL2cUFBvVqZW-58" value="输入与初始化" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="44" y="390" width="230" height="210" as="geometry" />
+          <mxGeometry x="60" y="400" width="230" height="210" as="geometry" />
         </mxCell>
         <mxCell id="vFa1o-agwL2cUFBvVqZW-59" value="$R_0,L,T_0,C_0$&#xa;$h,h_m,T_a(t),C_e^{eff}(t)$" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="vFa1o-agwL2cUFBvVqZW-58">
           <mxGeometry x="18.215999999999998" y="60.75276752767529" width="192.06971428571427" height="55.48339483394833" as="geometry" />
@@ -49,6 +49,11 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="296" y="100" as="sourcePoint" />
             <mxPoint x="346" y="50" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vFa1o-agwL2cUFBvVqZW-120" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="vFa1o-agwL2cUFBvVqZW-114">
+          <mxGeometry x="-0.3578" y="5" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="vFa1o-agwL2cUFBvVqZW-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vFa1o-agwL2cUFBvVqZW-61">
