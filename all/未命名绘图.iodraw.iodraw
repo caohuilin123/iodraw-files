@@ -14,7 +14,7 @@
           <mxGeometry x="670" y="500" width="644.5" height="379" as="geometry" />
         </mxCell>
         <mxCell id="vFa1o-agwL2cUFBvVqZW-52" value="重构Jacobian与修正迭代" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1362" y="305" width="624" height="425" as="geometry" />
+          <mxGeometry x="1362" y="520" width="624" height="425" as="geometry" />
         </mxCell>
         <mxCell id="vFa1o-agwL2cUFBvVqZW-53" value="" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="vFa1o-agwL2cUFBvVqZW-52">
           <mxGeometry x="43" y="46" width="306" height="350" as="geometry" />
