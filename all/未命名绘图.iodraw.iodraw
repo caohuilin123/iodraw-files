@@ -11,22 +11,22 @@
           <mxGeometry x="820" y="400" width="190" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vFa1o-agwL2cUFBvVqZW-52" value="重构Jacobian与修正迭代" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="289" y="569" width="326" height="271" as="geometry" />
+          <mxGeometry x="289" y="569" width="326" height="231" as="geometry" />
         </mxCell>
         <mxCell id="vFa1o-agwL2cUFBvVqZW-53" value="" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="vFa1o-agwL2cUFBvVqZW-52">
-          <mxGeometry x="22.461399999999998" y="29.328785046728974" width="189.4386" height="223.17398753894082" as="geometry" />
+          <mxGeometry x="22.461399999999998" y="24.99981308411215" width="189.4386" height="190.23317757009346" as="geometry" />
         </mxCell>
         <mxCell id="vFa1o-agwL2cUFBvVqZW-54" value="F(t)=max C-0.15" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="vFa1o-agwL2cUFBvVqZW-53">
-          <mxGeometry x="20.381164087667504" y="41.66851846906988" width="133.1413891601181" height="30.606718291054744" as="geometry" />
+          <mxGeometry x="20.381164087667504" y="35.518183639686875" width="133.1413891601181" height="26.089121495327106" as="geometry" />
         </mxCell>
         <mxCell id="vFa1o-agwL2cUFBvVqZW-55" value="tpost=tpre+1" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="vFa1o-agwL2cUFBvVqZW-53">
-          <mxGeometry x="20.38157930638201" y="89.9072349799733" width="148.67566987599366" height="42.08423765020027" as="geometry" />
+          <mxGeometry x="20.38157930638201" y="76.63679439252336" width="148.67566987599366" height="35.87254205607477" as="geometry" />
         </mxCell>
         <mxCell id="vFa1o-agwL2cUFBvVqZW-56" value="核验 maxC(tpost)&lt;0.15" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="vFa1o-agwL2cUFBvVqZW-53">
-          <mxGeometry x="20.38282496252555" y="156.40197552291949" width="143.0749762525551" height="42.08423765020027" as="geometry" />
+          <mxGeometry x="20.38282496252555" y="133.31681308411217" width="143.0749762525551" height="35.87254205607477" as="geometry" />
         </mxCell>
         <mxCell id="vFa1o-agwL2cUFBvVqZW-57" value="捕捉过零点&#xa;稠密输出定位 $t^*$" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="vFa1o-agwL2cUFBvVqZW-52">
-          <mxGeometry x="222.49364691119695" y="119.8816199376947" width="81.0468725868726" height="116.50467289719627" as="geometry" />
+          <mxGeometry x="222.49364691119695" y="102.18691588785046" width="81.0468725868726" height="99.30841121495328" as="geometry" />
         </mxCell>
         <mxCell id="vFa1o-agwL2cUFBvVqZW-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vFa1o-agwL2cUFBvVqZW-58" target="vFa1o-agwL2cUFBvVqZW-62">
           <mxGeometry relative="1" as="geometry">
@@ -99,10 +99,10 @@
           <mxGeometry x="610.5" y="521" width="124" height="29" as="geometry" />
         </mxCell>
         <mxCell id="vFa1o-agwL2cUFBvVqZW-69" value="网格收敛" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="853" y="630" width="124" height="30" as="geometry" />
+          <mxGeometry x="850" y="550" width="124" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vFa1o-agwL2cUFBvVqZW-70" value="多求解器对照" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="841" y="700" width="156" height="30" as="geometry" />
+          <mxGeometry x="827" y="600" width="156" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vFa1o-agwL2cUFBvVqZW-71" value="质量热量收支" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="834" y="500" width="156" height="29" as="geometry" />
