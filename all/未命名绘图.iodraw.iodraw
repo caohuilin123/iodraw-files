@@ -52,6 +52,11 @@
         <mxCell id="vFa1o-agwL2cUFBvVqZW-64" value="BDF隐式时间积分" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="716" y="402" width="183" height="48" as="geometry" />
         </mxCell>
+        <mxCell id="vFa1o-agwL2cUFBvVqZW-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vFa1o-agwL2cUFBvVqZW-65">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="869" y="1420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="vFa1o-agwL2cUFBvVqZW-65" value="满足容差?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="780" y="1490" width="119" height="119" as="geometry" />
         </mxCell>
@@ -59,7 +64,7 @@
           <mxGeometry x="721.5" y="510" width="172" height="48" as="geometry" />
         </mxCell>
         <mxCell id="vFa1o-agwL2cUFBvVqZW-67" value="计算能量与水分通量" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="827" y="1293" width="204" height="48" as="geometry" />
+          <mxGeometry x="689.5" y="620" width="204" height="48" as="geometry" />
         </mxCell>
         <mxCell id="vFa1o-agwL2cUFBvVqZW-68" value="事件检测" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1574" y="1706" width="124" height="48" as="geometry" />
