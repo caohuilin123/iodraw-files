@@ -53,7 +53,7 @@
           <mxGeometry x="30" y="310" width="372" height="66" as="geometry" />
         </mxCell>
         <mxCell id="vFa1o-agwL2cUFBvVqZW-17" value="构建控制方程" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="725" y="919" width="156" height="48" as="geometry" />
+          <mxGeometry x="480" y="810" width="156" height="48" as="geometry" />
         </mxCell>
         <mxCell id="vFa1o-agwL2cUFBvVqZW-18" value="有限体积空间离散" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="709" y="1035" width="188" height="48" as="geometry" />
