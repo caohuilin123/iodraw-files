@@ -8,7 +8,7 @@
           <mxGeometry x="30" y="170" width="1570" height="90" as="geometry" />
         </mxCell>
         <mxCell id="vFa1o-agwL2cUFBvVqZW-50" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="77" y="1080" width="1503" height="554" as="geometry" />
+          <mxGeometry x="77" y="1380" width="1503" height="254" as="geometry" />
         </mxCell>
         <mxCell id="vFa1o-agwL2cUFBvVqZW-51" value="数值可靠性总检验" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1140" y="585" width="400" height="705" as="geometry" />
@@ -77,7 +77,7 @@
           <mxGeometry x="1300" y="750" width="156" height="48" as="geometry" />
         </mxCell>
         <mxCell id="vFa1o-agwL2cUFBvVqZW-73" value="结果输出" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="195" y="1099" width="124" height="48" as="geometry" />
+          <mxGeometry x="190" y="1450" width="124" height="48" as="geometry" />
         </mxCell>
         <mxCell id="vFa1o-agwL2cUFBvVqZW-74" value="径向剖面" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="470" y="1450" width="124" height="48" as="geometry" />
@@ -92,7 +92,7 @@
           <mxGeometry x="1340" y="1430" width="165" height="48" as="geometry" />
         </mxCell>
         <mxCell id="vFa1o-agwL2cUFBvVqZW-78" value="注：连续事件根仅作定位依据，最终结果必须满足整数秒全域达标" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="100" y="830" width="252" height="84" as="geometry" />
+          <mxGeometry x="130" y="1330" width="252" height="84" as="geometry" />
         </mxCell>
         <mxCell id="vFa1o-agwL2cUFBvVqZW-87" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.02;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vFa1o-agwL2cUFBvVqZW-73" target="vFa1o-agwL2cUFBvVqZW-74">
           <mxGeometry relative="1" as="geometry">
@@ -112,15 +112,6 @@
         <mxCell id="vFa1o-agwL2cUFBvVqZW-90" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vFa1o-agwL2cUFBvVqZW-76" target="vFa1o-agwL2cUFBvVqZW-77">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="vFa1o-agwL2cUFBvVqZW-91" value="" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.31;entryY=0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vFa1o-agwL2cUFBvVqZW-78" target="vFa1o-agwL2cUFBvVqZW-73">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="156" y="961" />
-              <mxPoint x="257" y="990" />
-              <mxPoint x="257" y="1030" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="vFa1o-agwL2cUFBvVqZW-99" value="收敛判断" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
