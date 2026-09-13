@@ -26,7 +26,7 @@
           <mxGeometry x="23.560000000000002" y="37.14" width="126.26" height="24.97" as="geometry" />
         </mxCell>
         <mxCell id="vFa1o-agwL2cUFBvVqZW-56" value="核验 maxC(tpost)&lt;0.15" style="whiteSpace=wrap;strokeWidth=2;strokeColor=#e68d0e;fontColor=#994C00;" vertex="1" parent="vFa1o-agwL2cUFBvVqZW-53">
-          <mxGeometry x="18.94" y="73.27" width="151.06" height="19.98" as="geometry" />
+          <mxGeometry y="73.27" width="170" height="19.98" as="geometry" />
         </mxCell>
         <mxCell id="vFa1o-agwL2cUFBvVqZW-57" value="捕捉过零点&#xa;稠密输出定位 t*" style="whiteSpace=wrap;strokeWidth=2;strokeColor=#e68d0e;fontColor=#994C00;" vertex="1" parent="vFa1o-agwL2cUFBvVqZW-52">
           <mxGeometry x="185.88957055214723" y="80.74534161490683" width="111.53374233128834" height="32.645341614906826" as="geometry" />
