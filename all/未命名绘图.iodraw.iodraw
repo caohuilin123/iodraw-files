@@ -65,8 +65,8 @@
             <mxPoint x="346" y="50" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vFa1o-agwL2cUFBvVqZW-136" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="vFa1o-agwL2cUFBvVqZW-58">
-          <mxGeometry width="230" height="60" as="geometry" />
+        <mxCell id="vFa1o-agwL2cUFBvVqZW-136" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="vFa1o-agwL2cUFBvVqZW-58">
+          <mxGeometry width="230" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vFa1o-agwL2cUFBvVqZW-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vFa1o-agwL2cUFBvVqZW-61">
           <mxGeometry relative="1" as="geometry">
