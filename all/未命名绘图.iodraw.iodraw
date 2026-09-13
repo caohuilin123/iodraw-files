@@ -133,9 +133,9 @@
         <mxCell id="vFa1o-agwL2cUFBvVqZW-85" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.25;entryX=1;entryY=0.61;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vFa1o-agwL2cUFBvVqZW-67" target="vFa1o-agwL2cUFBvVqZW-64">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1733" y="1780" />
+              <mxPoint x="1330" y="1720" />
               <mxPoint x="1270" y="1600" />
-              <mxPoint x="1200" y="1416" />
+              <mxPoint x="1120" y="1480" />
             </Array>
           </mxGeometry>
         </mxCell>
