@@ -59,7 +59,7 @@
           <mxGeometry x="340" y="442" width="188" height="48" as="geometry" />
         </mxCell>
         <mxCell id="vFa1o-agwL2cUFBvVqZW-19" value="BDF隐式时间积分" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="711" y="1151" width="183" height="48" as="geometry" />
+          <mxGeometry x="640" y="420" width="183" height="48" as="geometry" />
         </mxCell>
         <mxCell id="vFa1o-agwL2cUFBvVqZW-20" value="逐节点更新物性" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="422" y="1466" width="172" height="48" as="geometry" />
@@ -87,13 +87,6 @@
         </mxCell>
         <mxCell id="vFa1o-agwL2cUFBvVqZW-28" value="注：连续事件根仅作定位依据，最终结果必须满足整数秒全域达标" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="318" y="1018" width="252" height="84" as="geometry" />
-        </mxCell>
-        <mxCell id="vFa1o-agwL2cUFBvVqZW-32" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.83;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vFa1o-agwL2cUFBvVqZW-19" target="vFa1o-agwL2cUFBvVqZW-22">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="508" y="1225" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="vFa1o-agwL2cUFBvVqZW-33" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vFa1o-agwL2cUFBvVqZW-22" target="vFa1o-agwL2cUFBvVqZW-20">
           <mxGeometry relative="1" as="geometry">
