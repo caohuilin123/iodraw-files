@@ -14,31 +14,31 @@
           <mxGeometry x="820" y="400" width="248" height="70" as="geometry" />
         </mxCell>
         <mxCell id="vFa1o-agwL2cUFBvVqZW-52" value="重构Jacobian与修正迭代" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="430" y="730" width="518" height="321" as="geometry" />
+          <mxGeometry x="430" y="730" width="400" height="321" as="geometry" />
         </mxCell>
         <mxCell id="vFa1o-agwL2cUFBvVqZW-53" value="" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="vFa1o-agwL2cUFBvVqZW-52">
-          <mxGeometry x="35.695512820512825" y="34.743529411764705" width="254.01923076923077" height="264.3529411764706" as="geometry" />
+          <mxGeometry x="27.564102564102566" y="34.743529411764705" width="196.15384615384616" height="264.3529411764706" as="geometry" />
         </mxCell>
         <mxCell id="vFa1o-agwL2cUFBvVqZW-54" value="$F(t)=\max C-0.15$" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="vFa1o-agwL2cUFBvVqZW-53">
-          <mxGeometry x="51.47" y="32.477647058823536" width="178.53" height="36.25411764705883" as="geometry" />
+          <mxGeometry x="39.745173745173744" y="32.477647058823536" width="137.86100386100384" height="36.25411764705883" as="geometry" />
         </mxCell>
         <mxCell id="vFa1o-agwL2cUFBvVqZW-55" value="$t_{pre}=⟨t^*⟩,\;t_{post}=t_{pre}+1$" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="vFa1o-agwL2cUFBvVqZW-53">
-          <mxGeometry x="50.64" y="106.4964705882353" width="199.36" height="49.84941176470589" as="geometry" />
+          <mxGeometry x="39.1042471042471" y="106.4964705882353" width="153.94594594594597" height="49.84941176470589" as="geometry" />
         </mxCell>
         <mxCell id="vFa1o-agwL2cUFBvVqZW-56" value="核验 $\max C(t_{post})&amp;lt;0.15$" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="vFa1o-agwL2cUFBvVqZW-53">
-          <mxGeometry x="48.15" y="194.11058823529413" width="191.85" height="49.84941176470589" as="geometry" />
+          <mxGeometry x="37.18146718146718" y="194.11058823529413" width="148.14671814671814" height="49.84941176470589" as="geometry" />
         </mxCell>
         <mxCell id="vFa1o-agwL2cUFBvVqZW-57" value="捕捉过零点&#xa;稠密输出定位 $t^*$" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="vFa1o-agwL2cUFBvVqZW-52">
-          <mxGeometry x="331.22" y="142" width="128.78" height="138" as="geometry" />
+          <mxGeometry x="255.76833976833979" y="142" width="99.44401544401545" height="138" as="geometry" />
         </mxCell>
         <mxCell id="vFa1o-agwL2cUFBvVqZW-58" value="输入与初始化" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="30" y="459" width="260" height="271" as="geometry" />
+          <mxGeometry x="30" y="459" width="230" height="271" as="geometry" />
         </mxCell>
         <mxCell id="vFa1o-agwL2cUFBvVqZW-59" value="$R_0,L,T_0,C_0$&#xa;$h,h_m,T_a(t),C_e^{eff}(t)$" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="vFa1o-agwL2cUFBvVqZW-58">
-          <mxGeometry x="20.592" y="78.4" width="217.1222857142857" height="71.6" as="geometry" />
+          <mxGeometry x="18.215999999999998" y="78.4" width="192.06971428571427" height="71.6" as="geometry" />
         </mxCell>
         <mxCell id="vFa1o-agwL2cUFBvVqZW-60" value="网格与BDF参数&#xa;$R(t)$仅问题四" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="vFa1o-agwL2cUFBvVqZW-58">
-          <mxGeometry x="33.517714285714284" y="171" width="211.62514285714286" height="77.96" as="geometry" />
+          <mxGeometry x="29.65028571428571" y="171" width="187.20685714285713" height="77.96" as="geometry" />
         </mxCell>
         <mxCell id="vFa1o-agwL2cUFBvVqZW-61" value="前置假设：一维径向、干物质守恒、等效固相传质边界" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="40" y="250" width="301" height="40" as="geometry" />
