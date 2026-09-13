@@ -95,8 +95,10 @@
         <mxCell id="vFa1o-agwL2cUFBvVqZW-122" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vFa1o-agwL2cUFBvVqZW-65" target="vFa1o-agwL2cUFBvVqZW-68">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vFa1o-agwL2cUFBvVqZW-134" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vFa1o-agwL2cUFBvVqZW-65" target="vFa1o-agwL2cUFBvVqZW-72">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="vFa1o-agwL2cUFBvVqZW-134" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vFa1o-agwL2cUFBvVqZW-65">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="810" y="430" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="vFa1o-agwL2cUFBvVqZW-65" value="满足容差?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="613" y="400" width="119" height="60" as="geometry" />
