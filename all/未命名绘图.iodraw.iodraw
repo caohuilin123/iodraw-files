@@ -53,7 +53,7 @@
           <mxGeometry x="330" y="320" width="188" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vFa1o-agwL2cUFBvVqZW-64" value="BDF隐式时间积分" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="581" y="322" width="183" height="38" as="geometry" />
+          <mxGeometry x="581" y="320" width="183" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vFa1o-agwL2cUFBvVqZW-65" value="满足容差?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="622" y="400" width="119" height="119" as="geometry" />
@@ -112,7 +112,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vFa1o-agwL2cUFBvVqZW-99" value="收敛判断" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="vFa1o-agwL2cUFBvVqZW-99" value="收敛判断" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="827" y="320" width="170" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vFa1o-agwL2cUFBvVqZW-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vFa1o-agwL2cUFBvVqZW-72" target="vFa1o-agwL2cUFBvVqZW-72">
