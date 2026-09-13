@@ -39,7 +39,7 @@
         <mxCell id="vFa1o-agwL2cUFBvVqZW-58" value="输入与初始化" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="60" y="400" width="230" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="vFa1o-agwL2cUFBvVqZW-59" value="$R_0,L,T_0,C_0$&#xa;$h,h_m,T_a(t),C_e^{eff}(t)$" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="vFa1o-agwL2cUFBvVqZW-58">
+        <mxCell id="vFa1o-agwL2cUFBvVqZW-59" value="R_0,L,T_0,C_0，&#xa;&#xa;h,h_m,T_a(t),C_e^{eff}(t)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="vFa1o-agwL2cUFBvVqZW-58">
           <mxGeometry x="18.215999999999998" y="60.75276752767529" width="192.06971428571427" height="55.48339483394833" as="geometry" />
         </mxCell>
         <mxCell id="vFa1o-agwL2cUFBvVqZW-60" value="网格与BDF参数&#xa;R(t)仅问题四" style="whiteSpace=wrap;strokeWidth=2;spacingTop=1;spacing=25;" vertex="1" parent="vFa1o-agwL2cUFBvVqZW-58">
