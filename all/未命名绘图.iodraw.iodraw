@@ -23,7 +23,7 @@
           <mxGeometry x="23.56150306748466" y="5.660909090909089" width="123.7466871165644" height="29.79363636363636" as="geometry" />
         </mxCell>
         <mxCell id="vFa1o-agwL2cUFBvVqZW-55" value="tpost=tpre+1" style="whiteSpace=wrap;strokeWidth=2;strokeColor=#e68d0e;" vertex="1" parent="vFa1o-agwL2cUFBvVqZW-53">
-          <mxGeometry x="13.74" y="37.14" width="126.26" height="24.97" as="geometry" />
+          <mxGeometry x="23.560000000000002" y="37.14" width="126.26" height="24.97" as="geometry" />
         </mxCell>
         <mxCell id="vFa1o-agwL2cUFBvVqZW-56" value="核验 maxC(tpost)&lt;0.15" style="whiteSpace=wrap;strokeWidth=2;strokeColor=#e68d0e;fontColor=#994C00;" vertex="1" parent="vFa1o-agwL2cUFBvVqZW-53">
           <mxGeometry x="18.942147239263804" y="73.27114093959732" width="132.98539877300615" height="19.983038438071997" as="geometry" />
