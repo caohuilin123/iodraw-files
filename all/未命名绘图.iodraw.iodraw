@@ -26,7 +26,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vFa1o-agwL2cUFBvVqZW-54" value="F(t)=max C-0.15" style="whiteSpace=wrap;strokeWidth=1;strokeColor=#000000;" vertex="1" parent="vFa1o-agwL2cUFBvVqZW-53">
-          <mxGeometry x="50" width="120" height="28.3" as="geometry" />
+          <mxGeometry x="50" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="vFa1o-agwL2cUFBvVqZW-55" value="tpost=tpre+1" style="whiteSpace=wrap;strokeWidth=1;strokeColor=#e68d0e;" vertex="1" parent="vFa1o-agwL2cUFBvVqZW-53">
           <mxGeometry x="43.74" y="37.14" width="126.26" height="24.97" as="geometry" />
