@@ -20,13 +20,13 @@
           <mxGeometry x="27.56" y="34.74" width="232.44" height="264.35" as="geometry" />
         </mxCell>
         <mxCell id="vFa1o-agwL2cUFBvVqZW-54" value="$F(t)=\max C-0.15$" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="vFa1o-agwL2cUFBvVqZW-53">
-          <mxGeometry x="47.097563297751535" y="32.47728571428572" width="163.3636676811265" height="36.25371428571429" as="geometry" />
+          <mxGeometry x="25.007563297751535" y="32.47728571428572" width="163.3636676811265" height="36.25371428571429" as="geometry" />
         </mxCell>
         <mxCell id="vFa1o-agwL2cUFBvVqZW-55" value="$t_{pre}=⟨t^*⟩,\;t_{post}=t_{pre}+1$" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="vFa1o-agwL2cUFBvVqZW-53">
-          <mxGeometry x="46.33807276856688" y="106.49528571428571" width="182.42413481717014" height="49.84885714285715" as="geometry" />
+          <mxGeometry x="25.008072768566883" y="106.49528571428571" width="182.42413481717014" height="49.84885714285715" as="geometry" />
         </mxCell>
         <mxCell id="vFa1o-agwL2cUFBvVqZW-56" value="核验 $\max C(t_{post})&amp;lt;0.15$" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="vFa1o-agwL2cUFBvVqZW-53">
-          <mxGeometry x="44.059601181012944" y="194.1084285714286" width="175.55211810129458" height="49.84885714285715" as="geometry" />
+          <mxGeometry x="25.009601181012943" y="185.2584285714286" width="175.55211810129458" height="49.84885714285715" as="geometry" />
         </mxCell>
         <mxCell id="vFa1o-agwL2cUFBvVqZW-57" value="捕捉过零点&#xa;稠密输出定位 $t^*$" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="vFa1o-agwL2cUFBvVqZW-52">
           <mxGeometry x="255.76833976833979" y="142" width="99.44401544401545" height="138" as="geometry" />
