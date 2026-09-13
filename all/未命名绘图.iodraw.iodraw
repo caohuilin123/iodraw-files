@@ -40,6 +40,9 @@
         <mxCell id="vFa1o-agwL2cUFBvVqZW-61" value="前置假设：一维径向、干物质守恒、等效固相传质边界" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="40" y="250" width="301" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="vFa1o-agwL2cUFBvVqZW-105" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vFa1o-agwL2cUFBvVqZW-62" target="vFa1o-agwL2cUFBvVqZW-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="vFa1o-agwL2cUFBvVqZW-62" value="构建控制方程" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="118" y="320" width="156" height="40" as="geometry" />
         </mxCell>
