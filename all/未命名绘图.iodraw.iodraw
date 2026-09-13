@@ -84,7 +84,7 @@
           <mxGeometry x="581" y="320" width="183" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vFa1o-agwL2cUFBvVqZW-65" value="满足容差?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="613" y="400" width="119" height="119" as="geometry" />
+          <mxGeometry x="613" y="400" width="119" height="80" as="geometry" />
         </mxCell>
         <mxCell id="vFa1o-agwL2cUFBvVqZW-66" value="逐节点更新物性" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="338" y="400" width="172" height="48" as="geometry" />
@@ -93,7 +93,7 @@
           <mxGeometry x="338" y="480" width="204" height="48" as="geometry" />
         </mxCell>
         <mxCell id="vFa1o-agwL2cUFBvVqZW-68" value="事件检测" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="640" y="572" width="124" height="48" as="geometry" />
+          <mxGeometry x="608" y="510" width="124" height="48" as="geometry" />
         </mxCell>
         <mxCell id="vFa1o-agwL2cUFBvVqZW-69" value="网格收敛" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="896" y="670" width="124" height="48" as="geometry" />
