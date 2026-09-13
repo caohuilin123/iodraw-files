@@ -11,7 +11,7 @@
           <mxGeometry x="77" y="961" width="377" height="673" as="geometry" />
         </mxCell>
         <mxCell id="vFa1o-agwL2cUFBvVqZW-51" value="数值可靠性总检验" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="670" y="420" width="644.5" height="459" as="geometry" />
+          <mxGeometry x="670" y="500" width="644.5" height="379" as="geometry" />
         </mxCell>
         <mxCell id="vFa1o-agwL2cUFBvVqZW-52" value="重构Jacobian与修正迭代" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1362" y="305" width="624" height="425" as="geometry" />
@@ -204,7 +204,9 @@
         </mxCell>
         <mxCell id="vFa1o-agwL2cUFBvVqZW-97" value="" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vFa1o-agwL2cUFBvVqZW-72" target="vFa1o-agwL2cUFBvVqZW-51">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
+            <Array as="points">
+              <mxPoint x="1022" y="430" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
