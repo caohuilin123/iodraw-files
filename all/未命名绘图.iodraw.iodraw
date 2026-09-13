@@ -99,10 +99,10 @@
           <mxGeometry x="610.5" y="521" width="124" height="29" as="geometry" />
         </mxCell>
         <mxCell id="vFa1o-agwL2cUFBvVqZW-69" value="网格收敛" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="853" y="630" width="124" height="48" as="geometry" />
+          <mxGeometry x="853" y="630" width="124" height="20" as="geometry" />
         </mxCell>
         <mxCell id="vFa1o-agwL2cUFBvVqZW-70" value="多求解器对照" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="880" y="770" width="156" height="48" as="geometry" />
+          <mxGeometry x="841" y="700" width="156" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vFa1o-agwL2cUFBvVqZW-71" value="质量热量收支" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="837" y="561" width="156" height="48" as="geometry" />
