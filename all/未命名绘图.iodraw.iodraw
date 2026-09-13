@@ -5,7 +5,7 @@
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="vFa1o-agwL2cUFBvVqZW-1" value="&lt;h1 style=&quot;line-height: 60%;&quot;&gt;圆柱多孔物料热风干燥数值求解流程&lt;/h1&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="30" y="170" width="890" height="60" as="geometry" />
+          <mxGeometry x="30" y="170" width="1040" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vFa1o-agwL2cUFBvVqZW-51" value="数值可靠性总检验" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="820" y="400" width="248" height="70" as="geometry" />
