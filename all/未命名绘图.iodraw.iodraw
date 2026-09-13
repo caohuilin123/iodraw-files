@@ -53,7 +53,7 @@
           <mxGeometry x="30" y="310" width="372" height="66" as="geometry" />
         </mxCell>
         <mxCell id="vFa1o-agwL2cUFBvVqZW-17" value="构建控制方程" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="480" y="810" width="156" height="48" as="geometry" />
+          <mxGeometry x="120" y="442" width="156" height="48" as="geometry" />
         </mxCell>
         <mxCell id="vFa1o-agwL2cUFBvVqZW-18" value="有限体积空间离散" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="709" y="1035" width="188" height="48" as="geometry" />
@@ -87,11 +87,6 @@
         </mxCell>
         <mxCell id="vFa1o-agwL2cUFBvVqZW-28" value="注：连续事件根仅作定位依据，最终结果必须满足整数秒全域达标" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="318" y="1018" width="252" height="84" as="geometry" />
-        </mxCell>
-        <mxCell id="vFa1o-agwL2cUFBvVqZW-30" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.02;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vFa1o-agwL2cUFBvVqZW-17" target="vFa1o-agwL2cUFBvVqZW-18">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="vFa1o-agwL2cUFBvVqZW-31" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.02;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vFa1o-agwL2cUFBvVqZW-18" target="vFa1o-agwL2cUFBvVqZW-19">
           <mxGeometry relative="1" as="geometry">
@@ -153,13 +148,6 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="214" y="1126" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="vFa1o-agwL2cUFBvVqZW-41" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=1;entryY=0.18;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vFa1o-agwL2cUFBvVqZW-13" target="vFa1o-agwL2cUFBvVqZW-17">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1046" y="894" />
             </Array>
           </mxGeometry>
         </mxCell>
