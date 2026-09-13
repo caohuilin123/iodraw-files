@@ -77,16 +77,16 @@
           <mxGeometry x="1270" y="620" width="156" height="48" as="geometry" />
         </mxCell>
         <mxCell id="vFa1o-agwL2cUFBvVqZW-73" value="结果输出" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="190" y="1450" width="124" height="48" as="geometry" />
+          <mxGeometry x="120" y="1250" width="124" height="48" as="geometry" />
         </mxCell>
         <mxCell id="vFa1o-agwL2cUFBvVqZW-74" value="径向剖面" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="470" y="1450" width="124" height="48" as="geometry" />
+          <mxGeometry x="400" y="1240" width="124" height="48" as="geometry" />
         </mxCell>
         <mxCell id="vFa1o-agwL2cUFBvVqZW-75" value="时间曲线" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="729.5" y="1430" width="124" height="48" as="geometry" />
+          <mxGeometry x="670" y="1240" width="124" height="48" as="geometry" />
         </mxCell>
         <mxCell id="vFa1o-agwL2cUFBvVqZW-76" value="临界干燥时长" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1034" y="1440" width="156" height="48" as="geometry" />
+          <mxGeometry x="1027" y="1240" width="156" height="48" as="geometry" />
         </mxCell>
         <mxCell id="vFa1o-agwL2cUFBvVqZW-77" value="npz数组与日志" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1340" y="1430" width="165" height="48" as="geometry" />
